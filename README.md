@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Umar</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">Software Developer | ML Engineer</h3>
 
 <p>Reach out to me at <a href="mailto:muhammadumar8741@gmail.com">muhammadumar8741@gmail.com</a></p>
 
