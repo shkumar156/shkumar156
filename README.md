@@ -43,7 +43,7 @@
 <ul>
   <li>Full-Stack Web Development 🌐</li>
   <li>Machine Learning & Deep Learning 🔎</li>
-  <li>Model Training & Evaluation 🏋️‍♂️📈</li>
+  <li>Model Evaluation, Model Training & Visualization 🏋️‍♂️📈</li>
 
   
 </ul>
