@@ -42,7 +42,7 @@
 <h3>🚀 Skills & Interests:</h3>
 <ul>
   <li>Full-Stack Web Development 🌐</li>
-  <li>Deep Learning 🔎</li>
+  <li>Machine Learning & Deep Learning 🔎</li>
   <li>Model Training & Evaluation 🏋️‍♂️📈</li>
 
   
